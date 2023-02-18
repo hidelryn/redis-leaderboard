@@ -1,0 +1,1 @@
+비트연산을 통한 redis 점수 desc, 시간 asc로 sortedset 활용
